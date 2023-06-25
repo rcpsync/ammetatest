@@ -2,7 +2,7 @@
 	<entityType>web</entityType>
 	<webSyncUrl>https://rcpsync.github.io/ammetatest/meta/websync.xml</webSyncUrl>
 
-	<versionApp>7.8.55</versionApp>
+	<versionApp>7.8.56</versionApp>
 	<versionDbs>7.8.49</versionDbs>
 
 	<baseUrl>https://rcpsync.github.io</baseUrl>
