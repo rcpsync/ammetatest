@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><WebEntity>
 	<entityType>web</entityType>
-	<webSyncUrl>https://rcpsync.github.io/ammetatest/meta/websync.xml</webSyncUrl>
+	<webSyncUrl>https://rcpsync.github.io/ammeta/meta/websync.xml</webSyncUrl>
 
-	<versionApp>7.8.56</versionApp>
+	<versionApp>7.8.58</versionApp>
 	<versionDbs>7.8.49</versionDbs>
+	<reqVersionForUpdate>7.8.56</reqVersionForUpdate>
 
 	<baseUrl>https://rcpsync.github.io</baseUrl>
-	<baseUrlRepository>https://rcpsync.github.io/amrepotest/repository</baseUrlRepository>
+	<baseUrlRepository>https://rcpsync.github.io/amrepo/repository</baseUrlRepository>
 	<baseUrlDB>https://rcpsync.github.io/amdbs/dbs</baseUrlDB>
 	<baseUrlExt>https://rcpsync.github.io/amext/ext</baseUrlExt>
 	<baseUrlSubTitle>https://amrcp.xyz/amrcp/subtitle/</baseUrlSubTitle>
